@@ -10,7 +10,6 @@
 ![CSS](https://img.shields.io/badge/CSS-17A589?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-17A589?&style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-17A589?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-
 ![Node](https://img.shields.io/badge/Node.js-17A589?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue.js-17A589?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-17A589?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
