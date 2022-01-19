@@ -1,13 +1,7 @@
 # 👩‍💻 Thais Belli
 
-<a href="https://github.com/thaisbelli"/><img src="https://img.shields.io/badge/GitHub-17A589?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/thaisbelli/"/><img src="https://img.shields.io/badge/LinkedIn-17A589?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:thaisbarbosa_belli@hotmail.com"/><img src="https://img.shields.io/badge/Microsoft_Outlook-17A589?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send?phone=5519996963380&text=Ol%C3%A1!"/><img src="https://img.shields.io/badge/WhatsApp-17A589?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-## Sobre Mim
 <p>
-    Formada em administração com especialização em UX, minhas experiências me impulsionaram cada vez mais a buscar conhecer e aprender sobre o mundo da tecnologia, e, cá estou eu. Atualmente tenho estudado e me aprofundado em desenvolvimento front-end, e estou amando!
+    Formada em Administração, com especialização em UX e engajada na disseminação do ambiente ágil. Vivenciei, por quase 5 anos o desenvolvimento de produtos educacionais e de projetos de inovação em novos negócios em uma multinacional, e o contato com a tecnologia me fez brilhar os olhos. Minhas experiências me impulsionaram cada vez mais a buscar conhecer e aprender sobre esse mundo, e atualmente curso Análise e Desenvolvimento de Sistemas e tenho me aprofundado em desenvolvimento fullstack, estou apaixonada e em busca da minha transição de carreira!
 </p>
 
 ## Skills
@@ -17,6 +11,10 @@
 ![SASS](https://img.shields.io/badge/SASS-17A589?&style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-17A589?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisbelli&layout=compact&theme=gotham)
+![Node](https://img.shields.io/badge/Node.js-17A589?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-17A589?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-17A589?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-17A589?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-17A589?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisbelli&theme=gotham&layout=compact)](https://github.com/thaisbelli)
